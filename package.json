@@ -1,0 +1,27 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Testing git commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineethtrv/git-test.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "vineethtrv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineethtrv/git-test/issues"
+  },
+  "homepage": "https://github.com/vineethtrv/git-test#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.11.0"
+  }
+}
